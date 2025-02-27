@@ -24,6 +24,17 @@ We can access the files, QuickDBD-pmd.sql and QuickDBD-ERD.png inside the Employ
 We used the csv files to create the tables, and based on their needs, we have set primary key, composite key and foreign keys on each tables.
 EmployeeSQL_tables.sql contains the detailed code we used to create tables. We can access this script inside the EmployeeSQL folder.
 
+## Data Analysis
+
+We can run each query listed inside the script, 'EmployeeSQL_queries.sql' to get the desired results. We can find this file inside the EmployeeSQL folder.
+
+# Acknowledgement
+
+I have done this challenge with the help of my Instructor and some internet searches.
+
+
+
+
 
 
 
