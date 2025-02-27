@@ -8,7 +8,7 @@ We are using the DBeaver free open source database management tool that allows u
      
 Inside our postgres Databases, we have created a new database called **'sql-challenge'**, to create and store all the tables and scripts we are using for completing this challenge.         
 To view the tables we have created, go through **sql-challenge -> Schemas -> public -> Tables**.           
-we are provided with 6 csv files. I have stored it inside the 'data' folder in the repository. Based on these csv files, we have created our tables.     
+We are provided with 6 csv files. I have stored it inside the 'data' folder in the repository. Based on these csv files, we have created our tables.     
 
 ## Data Modeling
      
@@ -41,7 +41,7 @@ We can also view the ER Diagram and Properties, by double clicking the table nam
       
 ## Data Analysis
         
-We can run each query listed inside the script, 'EmployeeSQL_queries.sql' to get the desired results. We can find this file inside the EmployeeSQL folder.     
+The queries we used to do the data analysis can be found inside the file 'EmployeeSQL_queries.sql'. We can find this file inside the EmployeeSQL folder.     
          
 ![Screenshot 2025-02-27 at 12 46 18 PM](https://github.com/user-attachments/assets/f5162fec-91fa-4c96-9930-141cb0d019a4)        
         
